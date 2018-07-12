@@ -1,4 +1,9 @@
 # voxelGrid_filter_PCL_1.7
+Prerequisites:
+
+- Using Ubuntu Linux 14.04 LTS
+- install ROS Indigo with ros-indigo-pcl-ros / ros-indigo-perception-pcl
+- build PCL 1.8.1 from scratch
 
 Installation:
 
